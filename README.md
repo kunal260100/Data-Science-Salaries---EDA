@@ -1,11 +1,11 @@
 # Data-Science-Salaries---EDA
 
-## Univariate Analysis
+- ## Univariate Analysis
 Analysis is performed on single variable and graphs are plotted.
 
 
 
-## Multivariate Analysis
+- ## Multivariate Analysis
 Multivariate Analysis is performed on different variables of the dataset and data are plotted using graphs
 
 
